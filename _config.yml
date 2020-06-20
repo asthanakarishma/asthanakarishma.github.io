@@ -3,13 +3,13 @@ title: Karishma
 subtitle: Cheyenne
 email: asthanakarishma@gmail.com
 description: Do you even exist if you're not taking up cyberspace with your content? Developing a website to feel more real (how ironic). Peruse at your leisure!
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 #street_address: 1234 Somewhere Road
 city: Los Angeles
 state: CA
-#zip_code: 55555
+#zip_code: 55577
 #country: United States of America
 #phone: (716) 555-5555
 
